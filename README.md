@@ -1,1 +1,1 @@
-# email-hider
+# Email hider
